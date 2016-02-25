@@ -1,25 +1,3 @@
-@charset "UTF-8";
-/*
-$green: #33cc33;
-$grey-dark: #333333;
-
-<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-$open: Open-sans,Avenir, sans-serif;
-*/
-/*
-@mixin button($bg-color){        //⬅︎ The argument passed is in the round brackets
-  display: inline-block;
-  margin: 1em;
-  padding: .5em 1em;
-  border-radius: 3px;
-  text-decoration: none;
-  color: #fff;
-  background: $bg-color;         //⬅︎ It gets used within the mixin here
-  &:hover {
-  	background: darken($bg-color, 20%);
-  }
-}
-*/
 /*
 html {
 	font-family: $Open-sans;
