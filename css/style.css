@@ -68,7 +68,7 @@ html {
 }
 
 .link:hover {
-  color: #00b3b3;
+  color: #55acee;
   border-bottom: 2px dotted #00b3b3;
 }
 
@@ -95,57 +95,57 @@ html {
 }
 
 .blue {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .blue:hover {
-  background-color: #00b3b3;
+  background-color: #55acee;
 }
 
 .green {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .green:hover {
-  background-color: #00b3b3;
+  background-color: #00802b;
 }
 
 .red {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .red:hover {
-  background-color: #00b3b3;
+  background-color: #990000;
 }
 
 .purple {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .purple:hover {
-  background-color: #00b3b3;
+  background-color: #5900b3;
 }
 
 .orange {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .orange:hover {
-  background-color: #00b3b3;
+  background-color: #cc5200;
 }
 
 .yellow {
-  background-color: #55acee;
+  background-color: #404040;
   box-shadow: 0px 5px 0px 0px #1a1a1a;
 }
 
 .yellow:hover {
-  background-color: #00b3b3;
+  background-color: #cccc00;
 }
 
 /* copyright stuffs.. */
